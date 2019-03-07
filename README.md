@@ -1,0 +1,1 @@
+# spryker-catalog-search-rest-api
