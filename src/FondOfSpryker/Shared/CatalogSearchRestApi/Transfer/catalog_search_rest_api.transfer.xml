@@ -5,6 +5,7 @@
 
     <transfer name="RestCatalogSearchAbstractProducts">
         <property name="attributes" type="array"/>
+        <property name="allowedQuantity" type="array"/>
     </transfer>
 
 </transfers>
